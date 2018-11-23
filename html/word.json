@@ -1,0 +1,287 @@
+[
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "16:45",
+        "Arrival_time": "20:00",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Барселона",
+        "Information": "Уральские авиалинии 7051 · Узкофюзеляжный реактивный · Airbus A321-100/200",
+        "Time_in_a_row": "4ч. 15м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "19:15",
+        "Arrival_time": "00:25",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Санкт-Петербург",
+        "Information": "Россия 5780",
+        "Time_in_a_row": "4ч. 10м."
+    },
+    {},
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "16:45",
+        "Arrival_time": "20:00",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Барселона",
+        "Information": "Уральские авиалинии 7051 · Узкофюзеляжный реактивный · Airbus A321-100/200",
+        "Time_in_a_row": "4ч. 15м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "19:15",
+        "Arrival_time": "00:25",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Санкт-Петербург",
+        "Information": "APG Airlines 7780",
+        "Time_in_a_row": "4ч. 10м."
+    },
+    {},
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "05:00",
+        "Arrival_time": "08:10",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Барселона",
+        "Information": "Iberia 5909 · Узкофюзеляжный реактивный · Airbus A320-100/200",
+        "Time_in_a_row": "4ч. 10м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "19:15",
+        "Arrival_time": "00:25",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Санкт-Петербург",
+        "Information": "Россия 5780",
+        "Time_in_a_row": "4ч. 10м."
+    },
+    {},
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "05:00",
+        "Arrival_time": "08:10",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Барселона",
+        "Information": "Vueling 7893 · Узкофюзеляжный реактивный · Airbus A320-100/200",
+        "Time_in_a_row": "4ч. 10м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "19:15",
+        "Arrival_time": "00:25",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Санкт-Петербург",
+        "Information": "Россия 5780",
+        "Time_in_a_row": "4ч. 10м."
+    },
+    {},
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "05:00",
+        "Arrival_time": "08:10",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Барселона",
+        "Information": "Iberia 5909 · Узкофюзеляжный реактивный · Airbus A320-100/200",
+        "Time_in_a_row": "4ч. 10м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "19:15",
+        "Arrival_time": "00:25",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Санкт-Петербург",
+        "Information": "APG Airlines 7780",
+        "Time_in_a_row": "4ч. 10м."
+    },
+    {},
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "02:45",
+        "Arrival_time": "04:20",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Москва",
+        "Information": "S7 Airlines 22 · Узкофюзеляжный реактивный · Airbus A320-100/200",
+        "Time_in_a_row": "1ч. 35м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "19:15",
+        "Arrival_time": "00:25",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Санкт-Петербург",
+        "Information": "APG Airlines 7780",
+        "Time_in_a_row": "4ч. 10м."
+    },
+    {},
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "16:45",
+        "Arrival_time": "20:00",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Барселона",
+        "Information": "Уральские авиалинии 7051 · Узкофюзеляжный реактивный · Airbus A321-100/200",
+        "Time_in_a_row": "4ч. 15м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "21:05",
+        "Arrival_time": "02:30",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Санкт-Петербург",
+        "Information": "Уральские авиалинии 7052 · Узкофюзеляжный реактивный · Airbus A321-100/200",
+        "Time_in_a_row": "4ч. 25м."
+    },
+    {},
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "19:35",
+        "Arrival_time": "20:25",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Хельсинки",
+        "Information": "Finnair 706 · Узкофюзеляжный реактивный · Embraer 190",
+        "Time_in_a_row": "0ч. 50м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "10:15",
+        "Arrival_time": "15:05",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Хельсинки",
+        "Information": "Finnair 1654 · Узкофюзеляжный реактивный · Airbus A321-100/200",
+        "Time_in_a_row": "3ч. 50м."
+    },
+    {},
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "19:35",
+        "Arrival_time": "20:25",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Хельсинки",
+        "Information": "Finnair 706 · Узкофюзеляжный реактивный · Embraer 190",
+        "Time_in_a_row": "0ч. 50м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "22:45",
+        "Arrival_time": "03:35",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Хельсинки",
+        "Information": "Finnair 1652 · Узкофюзеляжный реактивный · Airbus A321-100/200",
+        "Time_in_a_row": "3ч. 50м."
+    },
+    {},
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "19:35",
+        "Arrival_time": "20:25",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Хельсинки",
+        "Information": "Finnair 706 · Узкофюзеляжный реактивный · Embraer 190",
+        "Time_in_a_row": "0ч. 50м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "22:45",
+        "Arrival_time": "03:35",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Хельсинки",
+        "Information": "Finnair 1652 · Узкофюзеляжный реактивный · Airbus A321-100/200",
+        "Time_in_a_row": "3ч. 50м."
+    },
+    {},
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "19:35",
+        "Arrival_time": "20:25",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Хельсинки",
+        "Information": "Finnair 706 · Узкофюзеляжный реактивный · Embraer 190",
+        "Time_in_a_row": "0ч. 50м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "10:15",
+        "Arrival_time": "15:05",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Хельсинки",
+        "Information": "Finnair 1654 · Узкофюзеляжный реактивный · Airbus A321-100/200",
+        "Time_in_a_row": "3ч. 50м."
+    },
+    {},
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "16:45",
+        "Arrival_time": "20:00",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Барселона",
+        "Information": "Уральские авиалинии 7051 · Узкофюзеляжный реактивный · Airbus A321-100/200",
+        "Time_in_a_row": "4ч. 15м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "18:50",
+        "Arrival_time": "00:25",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Москва",
+        "Information": "Уральские авиалинии 886 · Узкофюзеляжный реактивный · Airbus A321-100/200",
+        "Time_in_a_row": "4ч. 35м."
+    },
+    {},
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "14:10",
+        "Arrival_time": "16:20",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Цюрих",
+        "Information": "SWISS 1311 · Узкофюзеляжный реактивный · Airbus A320-100/200",
+        "Time_in_a_row": "3ч. 10м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "06:25",
+        "Arrival_time": "08:05",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Цюрих",
+        "Information": "SWISS 1951 · Узкофюзеляжный реактивный · Airbus A321-100/200",
+        "Time_in_a_row": "1ч. 40м."
+    },
+    {},
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "05:00",
+        "Arrival_time": "08:10",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Барселона",
+        "Information": "Iberia 5909 · Узкофюзеляжный реактивный · Airbus A320-100/200",
+        "Time_in_a_row": "4ч. 10м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "01:00",
+        "Arrival_time": "05:20",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Кишинёв",
+        "Information": "Air Moldova 598 · Узкофюзеляжный реактивный · Embraer 190",
+        "Time_in_a_row": "3ч. 20м."
+    },
+    {},
+    {
+        "Departure_date": "вс, 3 июн.",
+        "Departure_time": "16:45",
+        "Arrival_time": "20:00",
+        "Departure_city": "Санкт-Петербург",
+        "AArrival_city": "Барселона",
+        "Information": "Уральские авиалинии 7051 · Узкофюзеляжный реактивный · Airbus A321-100/200",
+        "Time_in_a_row": "4ч. 15м."
+    },
+    {
+        "Departure_date": "сб, 9 июн.",
+        "Departure_time": "23:00",
+        "Arrival_time": "04:10",
+        "Departure_city": "Барселона",
+        "AArrival_city": "Санкт-Петербург",
+        "Information": "Vueling 7892 · Узкофюзеляжный реактивный · Airbus A320-100/200",
+        "Time_in_a_row": "4ч. 10м."
+    },
+    {}
+]
